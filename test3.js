@@ -1,6 +1,10 @@
+//test3.js
+//
+var tester =test;
 var request = require("request");
 var SeasonStats;
 //test  
+
 // Initialize creates a promise to Promise which waits for the json download
 function initialize() {
     // Setting URL and headers for request
